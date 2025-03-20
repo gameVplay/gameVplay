@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
+##
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victor-coelho-018792290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
