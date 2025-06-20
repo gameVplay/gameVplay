@@ -100,7 +100,7 @@ Me chamo Victor Coelho Rodrigues, tenho 20 anos e sou natural de São Paulo. Atu
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="160" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameVplay&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
